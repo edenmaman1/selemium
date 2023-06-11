@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENVIRONMENT>
+    <High-Range>1000000</High-Range>
+    <BROWSER_TYPE>chrome</BROWSER_TYPE>
+    <BASE_URL>https://www.demoblaze.com</BASE_URL>
+</ENVIRONMENT>

@@ -1,0 +1,1 @@
+{"uuid":"819ec65f-5196-41e6-bc10-c309d30a3276","name":"lusha.ui.tests.TestMainPage","children":["52333716-1163-4f11-92d2-c75fec82f3ea"],"befores":[{"name":"initPagesObjects","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686499102648,"stop":1686499103647}],"afters":[],"start":1686499102638,"stop":1686499117159}
